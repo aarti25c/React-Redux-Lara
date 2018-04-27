@@ -6,7 +6,7 @@ With Laravel5.6 we will build restfull API's which will be communicate with UI R
 ## Steps For Installation:-
 - Clone git repo
 ```PHP
-git clone https://github.com/aarti25c/React-Lara5.6.git
+git clone https://github.com/aarti25c/React-Redux-Lara.git
 ```
 - Run `cd React-Lara5.6.git`
 
