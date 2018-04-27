@@ -14,7 +14,7 @@ git clone https://github.com/aarti25c/React-Redux-Lara.git
 
 - Rename `.env.example to .env`
 
-- Run `php arisan key:generate`
+- Run `php artisan key:generate`
 
 - Run `php artisan preset react`
 
